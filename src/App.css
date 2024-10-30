@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+html {
+    height: 100%;
+    width: 100%;
+    background: repeating-conic-gradient(from 215deg at 50% 30%, #effef7, #43e5a0);
+}
